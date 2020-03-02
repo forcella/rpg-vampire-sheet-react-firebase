@@ -1,0 +1,11 @@
+.load{
+    position: fixed;
+    bottom: 50px;
+    width: 68%;
+}
+.load-input{
+    background-color: #fff;
+}
+.load-input:focus{
+    background-color: #fff !important;
+}

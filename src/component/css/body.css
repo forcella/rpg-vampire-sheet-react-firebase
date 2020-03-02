@@ -1,0 +1,63 @@
+
+.checkbox .input-group-text{
+    width: 19px;
+    background-color:transparent;
+    padding:0;
+    margin: 0;
+    margin-bottom: 5px;
+    border: none;
+    font-size: 1.5em;
+}
+.big-checkbox .input-group-text{
+    width: 100%;
+    background-color:transparent;
+    padding: 5px 8px 0 0;
+    margin: 0;
+    margin-bottom: 5px;
+    border: none;
+    text-align: center;
+}
+.merit-flaw-input{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+    padding: 0;
+    font-size: 0.8em;
+    height: 25px;
+}
+
+input[type=text]:focus { 
+    background-color: transparent;
+    outline: none;
+}
+.circular-checkbox input { 
+    width: 0.5em;
+    height:0.5em;
+    border-radius: 50%;
+}
+.oval-checkbox input { 
+    width: 0.5em;
+    height:0.6em;
+    border-radius: 45%;
+}
+.square-checkbox input{
+    width: 0.5em;
+    height:0.5em;
+}
+input[type=checkbox] { 
+    background-color: transparent;
+    vertical-align: middle;
+    border: 1px solid black;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+input[type=checkbox]:checked { 
+    background-color: black;
+}
+.botton-spacing{
+    padding: 7px;
+}

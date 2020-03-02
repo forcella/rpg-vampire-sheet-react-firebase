@@ -1,0 +1,21 @@
+.img{
+    width: 320px;
+    margin-bottom: 8px;
+}
+.header-input{
+    margin-left: 5px;
+    background-color: transparent;
+    border: none; 
+}
+.info-title .input-group-text{
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    height: 25px;
+}
+.info-input{
+    background-color: #fff;
+    border: none;
+    padding: 0;
+    height: 25px;
+}
